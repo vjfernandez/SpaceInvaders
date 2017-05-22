@@ -1,7 +1,7 @@
 # SpaceInvaders
 Probamos la herencia y el polimorfismo programando libremente algún juego.
 
-Hemos consgtruido el framework simple [gameframe](https://github.com/vjfernandez/GameFrame) para representar sprites con detección de colisiones rectangulares,basado en la librería de dibujo [stddraw](https://github.com/vjfernandez/stddrawsound-netbeans). 
+Hemos construido el framework simple [gameframe](https://github.com/vjfernandez/GameFrame) para representar sprites con detección de colisiones rectangulares,basado en la librería de dibujo [stddraw](https://github.com/vjfernandez/stddrawsound-netbeans). 
 
 En el juego hay cuatro tipos de sprites: Nave, Aliens, FuegoNave y FuegoAlien. La nave se mueve con eventos de teclado (izquierda, derecha y disparo), que son obtenidos en la clase principal (game), en el método principal (run()) que es el que contiene el bucle de eventos. Los objetos de los otros tres tipos se mueven autónomamente.
 
