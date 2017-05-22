@@ -1,5 +1,6 @@
 # SpaceInvaders
-Probamos la herencia y el polimorfismo programando libremente algún juego.
+Probamos la herencia y el polimorfismo programando libremente algún juego. Del tipo Space Invaders.
+Puedes jugar ejecutando spaceinvaders.jar de la carpeta _dist_ (Para que los sprites puedan ser encontrados por el .jar, copia la carpeta _resources_ dentro de _dist_).
 
 Hemos construido el framework simple [gameframe](https://github.com/vjfernandez/GameFrame) para representar sprites con detección de colisiones rectangulares,basado en la librería de dibujo [stddraw](https://github.com/vjfernandez/stddrawsound-netbeans). 
 
